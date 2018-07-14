@@ -40,8 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FaturaBLL\FaturaManager.cs" />
+    <Compile Include="KullaniciBLL\KullaniciManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StokBLL\StokManager.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SiparisTakip.Entity\SiparisTakip.Entity.csproj">
+      <Project>{2fbe0ed4-410d-46f3-8b06-6a1c3a274763}</Project>
+      <Name>SiparisTakip.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SiparisTakip.Interfaces\SiparisTakip.Interfaces.csproj">
+      <Project>{00CC022E-C4BA-4537-B6A0-AA1A94813A11}</Project>
+      <Name>SiparisTakip.Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

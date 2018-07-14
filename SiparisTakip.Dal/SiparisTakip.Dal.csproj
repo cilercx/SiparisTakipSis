@@ -51,9 +51,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\FaturaA\IFaturaDal.cs" />
+    <Compile Include="Abstract\KullaniciA\IKullaniciDal.cs" />
     <Compile Include="Abstract\StokA\IStokDal.cs" />
     <Compile Include="Concrete\EntityFrameWork\Context\SiparisTakipEntity.cs" />
+    <Compile Include="Concrete\EntityFrameWork\Repository\EFFaturaRepository.cs" />
     <Compile Include="Concrete\EntityFrameWork\Repository\EFStokRepository.cs" />
+    <Compile Include="Concrete\EntityFrameWork\Repository\EKullaniciRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

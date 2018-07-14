@@ -5,34 +5,42 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SiparisTakip.Entity.Models;
+using SiparisTakip.Dal.Concrete.EntityFrameWork.Context;
 
 namespace SiparisTakip.Dal.Concrete.EntityFrameWork.Repository
 {
     public class EFStokRepository : IStokDal
     {
+        SiparisTakipEntity ctx = new SiparisTakipEntity();//veri tabanı ile bağlantıyı kurduk.
+
         public Stok Getir(int id)
         {
-            throw new NotImplementedException();
+            var data = ctx.Stok.Where(x => x.StokID == id).FirstOrDefault();// id si bnim gönderdiğim id ye göre stok tablosunu sorguladık.
+            // firstordefault() demek ilkini getir veya defaultta neyse onu getir demek. where kullanmamaizin sebebi queryable oldugu için.
+
+            return data;
         }
 
-        public Stok Guncelle(Stok nesne)
+        public int Guncelle(Stok nesne)// güncelleme yapıdığında kac satırın etkilendiği sayısı döner.o yüzden dönüş tipi integer.
         {
-            throw new NotImplementedException();
+            ctx.Stok.Attach(nesne);
+            return ctx.SaveChanges();// kac satır döndü.
         }
 
-        public Stok Kaydet(Stok nesne)
+        public int Kaydet(Stok nesne)
         {
-            throw new NotImplementedException();
+            ctx.Stok.Add(nesne);
+            return ctx.SaveChanges();
         }
 
         public List<Stok> ListeGetir()
         {
-            throw new NotImplementedException();
+            return ctx.Stok.ToList();
         }
 
-        public bool Sil(int id)
+        public Stok Sil(Stok nesne)
         {
-            throw new NotImplementedException();
+           return ctx.Stok.Remove(nesne);
         }
     }
 }

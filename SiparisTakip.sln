@@ -13,29 +13,31 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisTakip.Cache", "Sipar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisTakip.WcfServiceLibrary", "SiparisTakip.WcfServiceLibrary\SiparisTakip.WcfServiceLibrary.csproj", "{6897701C-F90A-48E7-8C42-54833D4CA468}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SiparisTakip.WcfServiceIISHost", "..\..\..\..\Desktop\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\", "{40360B92-5CE9-404E-AA1C-2511DF7D2F3B}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SiparisTakip.WcfServiceIISHost", "..\..\..\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\", "{40360B92-5CE9-404E-AA1C-2511DF7D2F3B}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_4095"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4095\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_4095"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4095\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "4095"
-		SlnRelativePath = "..\..\..\..\Desktop\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\"
+		SlnRelativePath = "..\..\..\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisTakip.Entity", "SiparisTakip.Entity\SiparisTakip.Entity.csproj", "{2FBE0ED4-410D-46F3-8B06-6A1C3A274763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{A81B746E-ED37-4349-9188-C25AF1AF8FB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,10 @@ Global
 		{2FBE0ED4-410D-46F3-8B06-6A1C3A274763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FBE0ED4-410D-46F3-8B06-6A1C3A274763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FBE0ED4-410D-46F3-8B06-6A1C3A274763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81B746E-ED37-4349-9188-C25AF1AF8FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81B746E-ED37-4349-9188-C25AF1AF8FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81B746E-ED37-4349-9188-C25AF1AF8FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81B746E-ED37-4349-9188-C25AF1AF8FB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
