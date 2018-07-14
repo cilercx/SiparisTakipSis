@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisTakip.Dal", "SiparisTakip.Dal\SiparisTakip.Dal.csproj", "{8975F0A0-66E7-4737-8C57-743490A7F3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisTakip.BLL", "SiparisTakip.BLL\SiparisTakip.BLL.csproj", "{3A5B20C4-1882-430C-8652-3AD1CA3AD452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisTakip.Interfaces", "SiparisTakip.Interfaces\SiparisTakip.Interfaces.csproj", "{00CC022E-C4BA-4537-B6A0-AA1A94813A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisTakip.Cache", "SiparisTakip.Cache\SiparisTakip.Cache.csproj", "{0ECBD838-2A87-4DA4-AE4F-6F27C5E51AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisTakip.WcfServiceLibrary", "SiparisTakip.WcfServiceLibrary\SiparisTakip.WcfServiceLibrary.csproj", "{6897701C-F90A-48E7-8C42-54833D4CA468}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SiparisTakip.WcfServiceIISHost", "..\..\..\..\Desktop\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\", "{40360B92-5CE9-404E-AA1C-2511DF7D2F3B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4095"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4095\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4095"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4095\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4095"
+		SlnRelativePath = "..\..\..\..\Desktop\Projeler\NorthwindMVC\SiparisTakip.WcfServiceIISHost\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisTakip.Entity", "SiparisTakip.Entity\SiparisTakip.Entity.csproj", "{2FBE0ED4-410D-46F3-8B06-6A1C3A274763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8975F0A0-66E7-4737-8C57-743490A7F3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8975F0A0-66E7-4737-8C57-743490A7F3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8975F0A0-66E7-4737-8C57-743490A7F3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8975F0A0-66E7-4737-8C57-743490A7F3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5B20C4-1882-430C-8652-3AD1CA3AD452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5B20C4-1882-430C-8652-3AD1CA3AD452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5B20C4-1882-430C-8652-3AD1CA3AD452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5B20C4-1882-430C-8652-3AD1CA3AD452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CC022E-C4BA-4537-B6A0-AA1A94813A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CC022E-C4BA-4537-B6A0-AA1A94813A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CC022E-C4BA-4537-B6A0-AA1A94813A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CC022E-C4BA-4537-B6A0-AA1A94813A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECBD838-2A87-4DA4-AE4F-6F27C5E51AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECBD838-2A87-4DA4-AE4F-6F27C5E51AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECBD838-2A87-4DA4-AE4F-6F27C5E51AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECBD838-2A87-4DA4-AE4F-6F27C5E51AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6897701C-F90A-48E7-8C42-54833D4CA468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6897701C-F90A-48E7-8C42-54833D4CA468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6897701C-F90A-48E7-8C42-54833D4CA468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6897701C-F90A-48E7-8C42-54833D4CA468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40360B92-5CE9-404E-AA1C-2511DF7D2F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40360B92-5CE9-404E-AA1C-2511DF7D2F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40360B92-5CE9-404E-AA1C-2511DF7D2F3B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{40360B92-5CE9-404E-AA1C-2511DF7D2F3B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2FBE0ED4-410D-46F3-8B06-6A1C3A274763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBE0ED4-410D-46F3-8B06-6A1C3A274763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBE0ED4-410D-46F3-8B06-6A1C3A274763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBE0ED4-410D-46F3-8B06-6A1C3A274763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
