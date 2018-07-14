@@ -11,6 +11,11 @@ namespace SiparisTakip.BLL.StokBLL
     public class StokManager : IStokService //IStokService burda implemente ediyoruz kalıtım yapmıyoruz. class'tan class'a ınterfaceden ınterfaceden kalıtım alır.yani özelliklerin aynısı ona da gecer.
       //BLL kullanıcınn gördüğü UI yani kullanıcınn gördüğü ekranın hemen arkasındaki katmandır.yani login sayfasını düşünürsek,kullaniciadi veya sifresi dogrumu,sayfaya girme yetkisi varmı gibi kontroller burda yapılır.   
     {
+        public StokManager()
+        {
+
+        }
+
         public Stok Getir(int id)
         {
             throw new NotImplementedException();
