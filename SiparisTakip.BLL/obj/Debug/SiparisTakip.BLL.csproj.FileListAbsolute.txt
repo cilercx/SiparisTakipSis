@@ -1,0 +1,16 @@
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\SiparisTakip.BLL.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\SiparisTakip.BLL.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\SiparisTakip.Dal.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\SiparisTakip.Entity.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\SiparisTakip.Interfaces.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\EntityFramework.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\SiparisTakip.Dal.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\SiparisTakip.Entity.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\SiparisTakip.Interfaces.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\EntityFramework.xml
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\obj\Debug\SiparisTakip.BLL.csprojResolveAssemblyReference.cache
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\obj\Debug\SiparisTakip.BLL.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\obj\Debug\SiparisTakip.BLL.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\SiparisTakip.BLL.dll.config
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.BLL\bin\Debug\EntityFramework.SqlServer.xml

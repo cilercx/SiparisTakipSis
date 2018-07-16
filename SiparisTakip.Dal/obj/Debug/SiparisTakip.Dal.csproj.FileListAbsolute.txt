@@ -1,0 +1,12 @@
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.dll.config
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\bin\Debug\SiparisTakip.Dal.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\bin\Debug\EntityFramework.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\bin\Debug\SiparisTakip.Entity.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\bin\Debug\SiparisTakip.Entity.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\bin\Debug\EntityFramework.xml
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.csprojResolveAssemblyReference.cache
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Dal\obj\Debug\SiparisTakip.Dal.pdb

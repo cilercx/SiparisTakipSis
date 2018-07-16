@@ -1,0 +1,7 @@
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Interfaces.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Interfaces.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entity.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Interfaces\bin\Debug\SiparisTakip.Entity.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.dll
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.pdb
+C:\Users\burakcpc\Desktop\Github\SiparisTakip_Github\SiparisTakipSis\SiparisTakip.Interfaces\obj\Debug\SiparisTakip.Interfaces.csprojResolveAssemblyReference.cache

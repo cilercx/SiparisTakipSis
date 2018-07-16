@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ModelsDto\StokDto.cs" />
     <Compile Include="Models\Aksesuar.cs" />
     <Compile Include="Models\Appointments.cs" />
     <Compile Include="Models\Ayarlar.cs" />
